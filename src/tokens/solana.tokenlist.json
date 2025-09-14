@@ -7,3 +7,23 @@
   "logoURI": "https://raw.githubusercontent.com/Morf623GEDN/token-list/main/assets/mainnet/BGgh5iUfR1jveWavMyDc2tPvVemghsTXo87S4tXy3hNs/logo.png",
   "tags": ["utility-token"]
 }
+{
+  "name": "NovaX",
+  "symbol": "NVX",
+  "description": "Token SPL nativo del ecosistema NovaX: acceso a portafolios con inteligencia artificial, gobernanza mediante DAO, staking y procesos de tokenización. Transparente, seguro y escalable.",
+  "image": "ipfs://bafkreibui2iztrpha4ffeiht3wsjfruudgqicnrxfimwvtpezp4sugdj3i",
+  "external_url": "https://novax.site/",
+  "properties": {
+    "category": "token",
+    "creators": [
+      { "address": "NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC" }
+    ],
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreibui2iztrpha4ffeiht3wsjfruudgqicnrxfimwvtpezp4sugdj3i",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
